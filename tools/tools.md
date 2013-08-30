@@ -11,3 +11,10 @@
 * Pearl Crescent Page Saver Basic:保存网页为图片。
 * ColorZilla:一个网页取色软件
 * Adblock Plus：广告禁用插件
+
+
+##chrome 插件
+
+* Speed tracer：一个google的性能分析工具。
+* PageSpeed Insights：性能分析工具。
+* screen capture：网页截图工具
